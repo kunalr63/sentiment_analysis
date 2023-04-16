@@ -1,0 +1,6 @@
+flask
+transformers
+#install pytorch with conda command if gpu
+torch 
+torchvision
+torchaudio
